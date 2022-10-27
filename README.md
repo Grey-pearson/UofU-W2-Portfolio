@@ -15,3 +15,9 @@ my work:
 contact me
 
 responsive layout
+
+#344E41
+#3A5A40
+#588157
+#A3B18A
+#DAD7CD
