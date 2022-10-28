@@ -1,23 +1,24 @@
-nav: 
-- link to about me, my work, contact
-- nav links scroll user to each section instead of instant transmition
+# Portfolio Project
 
-name
-photo of me / avatar
+A project where we make a basic reponsive portfolio that required the following criteria:
 
-about me
+## Nav Bar:
+- Link to about me, my work, contact
+- Nav links scroll user to each section instead of instant transmition
 
-my work:
-- my work has titled images with each app
-- my first app should have a bigger picture than the others
-- clicking on the app should take you to the actual app
+## About Me:
+- A photo of me
+- My name
+- An about me section
 
-contact me
+## Previous Projects:
+- My work has titled images with each app
+- My first app should have a bigger picture than the others
+- Clicking on the app should take you to the actual app
 
-responsive layout
 
-#344E41
-#3A5A40
-#588157
-#A3B18A
-#DAD7CD
+## Other Criteria:
+- A contact me secion
+- Responsive layout
+- A github repo
+- Deployed site
